@@ -30,7 +30,7 @@ Ce projet est une API REST complète permettant de gérer des utilisateurs, des 
 
 ### 1. Cloner le dépôt
 ```bash
-git clone <URL_DU_REPO>
+git clone https://github.com/CarlosNgounou05/Backend_Newslatter.git
 cd backend-newsletter
 ```
 
